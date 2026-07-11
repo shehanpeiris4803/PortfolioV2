@@ -330,7 +330,7 @@ function Portfolio() {
               <Mail size={16} /> Email
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/shehanpeiris4803"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded border border-border bg-card px-5 py-2.5 text-sm font-semibold transition hover:border-neon/60"
@@ -338,7 +338,7 @@ function Portfolio() {
               <Github size={16} /> GitHub
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/shehan-peiris-8733b9366/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded border border-border bg-card px-5 py-2.5 text-sm font-semibold transition hover:border-neon/60"
