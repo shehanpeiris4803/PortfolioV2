@@ -206,7 +206,7 @@ function Portfolio() {
             </a>
             <a
               href="/cv.pdf"
-              download="Shehan_Deshapriya_CV.pdf"
+              download="cv.pdf"
               className="inline-flex items-center gap-2 rounded bg-neon px-6 py-3 text-sm font-semibold text-primary-foreground transition hover:opacity-90 box-glow animate-pulse-glow"
               style={{ background: "var(--neon)" }}
             >
@@ -336,7 +336,7 @@ function Portfolio() {
             </a>
             <a
               href="/cv.pdf"
-              download="Shehan_Deshapriya_CV.pdf"
+              download="cv.pdf"
               className="inline-flex items-center gap-2 rounded bg-neon px-5 py-2.5 text-sm font-semibold text-primary-foreground transition hover:opacity-90 box-glow"
               style={{ background: "var(--neon)" }}
             >
