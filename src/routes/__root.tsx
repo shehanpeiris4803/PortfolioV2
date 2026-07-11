@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Shehan Deshapriya — Cyber Security Undergraduate" },
+      { name: "description", content: "Portfolio of Shehan Deshapriya, Cyber Security undergraduate at SLTC Research University, Sri Lanka. Projects, skills, and contact." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Shehan Deshapriya — Cyber Security Undergraduate" },
+      { property: "og:description", content: "Portfolio of Shehan Deshapriya, Cyber Security undergraduate at SLTC Research University, Sri Lanka. Projects, skills, and contact." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Shehan Deshapriya — Cyber Security Undergraduate" },
+      { name: "twitter:description", content: "Portfolio of Shehan Deshapriya, Cyber Security undergraduate at SLTC Research University, Sri Lanka. Projects, skills, and contact." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/39179202-100a-416e-915c-5ede8fd8df42/id-preview-fb7a14cc--9db51f1c-e3c0-4571-b79c-40b59ef61ffd.lovable.app-1783741965723.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/39179202-100a-416e-915c-5ede8fd8df42/id-preview-fb7a14cc--9db51f1c-e3c0-4571-b79c-40b59ef61ffd.lovable.app-1783741965723.png" },
     ],
     links: [
       {

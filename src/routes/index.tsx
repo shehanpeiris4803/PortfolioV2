@@ -29,8 +29,8 @@ export const Route = createFileRoute("/")({
         content:
           "Portfolio of Shehan Deshapriya, Cyber Security undergraduate at SLTC Research University, Sri Lanka. Projects, skills, and contact.",
       },
-      { property: "og:title", content: "Shehan Deshapriya — Cyber Security Portfolio" },
-      { property: "og:description", content: "Cyber Security undergraduate. Attackers innovate faster — defenders must think deeper." },
+      { property: "og:title", content: "Shehan Deshapriya — Cyber Security Undergraduate" },
+      { property: "og:description", content: "Portfolio of Shehan Deshapriya, Cyber Security undergraduate at SLTC Research University, Sri Lanka. Projects, skills, and contact." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
