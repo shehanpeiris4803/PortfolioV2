@@ -84,9 +84,9 @@ const NAV = [
 
 const SKILLS = [
   { icon: Shield, name: "Network Security", items: ["Firewalls", "IDS/IPS", "VPN", "Zero Trust"] },
-  { icon: Bug, name: "Penetration Testing", items: ["Metasploit", "Burp Suite", "Nmap", "OWASP Top 10"] },
-  { icon: Terminal, name: "Scripting", items: ["Python", "Bash", "PowerShell"] },
-  { icon: Lock, name: "Cryptography", items: ["AES", "RSA", "TLS", "Hashing"] },
+  { icon: Bug, name: "Technical Skills", items: ["Problem Solving", "Debugging", "\u00a0Database Knowledge", "System Troubleshooting"] },
+  { icon: Terminal, name: "Scripting", items: ["Python", "Java", "HTML"] },
+  { icon: Lock, name: "Soft Skills", items: ["Time Managemenet", "Leadership", "Teamwork", "Communication"] },
   { icon: Cpu, name: "Systems", items: ["Linux", "Windows Server", "Docker", "Cloud"] },
   { icon: Code2, name: "Web Security", items: ["XSS", "SQLi", "CSRF", "SSRF"] },
 ];
