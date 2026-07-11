@@ -110,10 +110,10 @@ const PROJECTS = [
 ];
 
 const ACHIEVEMENTS = [
-  "Top 5% on TryHackMe global leaderboard",
-  "Finalist — Inter-university CTF competition",
-  "Contributor to open-source security tools",
-  "Google Cybersecurity Certificate (in progress)",
+  "Successfully developed multiple projects including a Python-based To-Do List Manager",
+  "Completed 50 Java programs using IntelliJ IDEA to strengthen core programming skills",
+  "Contributed to organizing and participating in events such as Stargaze25 and SpaceStack",
+  "TryHackMe / HackTheBox Cybersecurity Certificate (in progress)",
 ];
 
 function Portfolio() {
