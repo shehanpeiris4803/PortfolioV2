@@ -295,7 +295,7 @@ function Portfolio() {
         <div className="mt-8 rounded-lg border border-border bg-card p-6 text-center">
           <p className="mb-4 text-sm text-muted-foreground">GitHub Activity</p>
           <img
-            src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"
+            src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"
             alt="GitHub stats"
             className="mx-auto max-w-full"
             loading="lazy"
@@ -330,7 +330,7 @@ function Portfolio() {
               <Mail size={16} /> Email
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/shehanpeiris4803"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded border border-border bg-card px-5 py-2.5 text-sm font-semibold transition hover:border-neon/60"
@@ -338,7 +338,7 @@ function Portfolio() {
               <Github size={16} /> GitHub
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/shehan-peiris-8733b9366/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded border border-border bg-card px-5 py-2.5 text-sm font-semibold transition hover:border-neon/60"
