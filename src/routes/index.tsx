@@ -17,6 +17,7 @@ import {
   ExternalLink,
 } from "lucide-react";
 import { Chatbot } from "@/components/Chatbot";
+import profileAsset from "@/assets/shehan-profile.jpg.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
