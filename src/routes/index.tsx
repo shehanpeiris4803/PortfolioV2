@@ -138,8 +138,8 @@ function Portfolio() {
             ))}
           </ul>
           <a
-            href="./cv.pdf"
-            download="Shehan_Deshapriya_CV.pdf"
+            href="/cv.pdf"
+            download="cv.pdf"
             className="hidden items-center gap-2 rounded border border-neon/50 px-3 py-1.5 text-xs font-semibold text-neon transition hover:bg-neon/10 box-glow-hover sm:inline-flex"
             style={{ color: "var(--neon)", borderColor: "var(--neon-dim)" }}
           >
