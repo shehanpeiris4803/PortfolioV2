@@ -216,14 +216,10 @@ function Portfolio() {
       {/* About */}
       <Section id="about" title="01. About Me" icon={Terminal}>
         <div className="rounded-lg border border-border bg-card p-6 md:p-8 leading-relaxed text-muted-foreground">
-          <p className="mb-4">
-            I'm <span className="text-neon" style={{ color: "var(--neon)" }}>Shehan Deshapriya</span>, a Cyber Security
-            undergraduate passionate about offensive security, threat detection, and building resilient systems. I spend my
-            time breaking things ethically — so others can't.
-          </p>
-          <p>
-            When I'm not analyzing packets or reversing binaries, I write CTF walkthroughs, contribute to open-source
-            security tooling, and mentor peers on ethical hacking fundamentals.
+          <p className="whitespace-pre-wrap">
+            I'm <span className="text-neon" style={{ color: "var(--neon)" }}>Shehan Deshapriya</span> , an undergraduate in Cyber Security at SLTC Research University with a strong passion for protecting digital systems and exploring the evolving landscape of information security. I am particularly interested in ethical hacking, network security, and blue team operations, and I continuously work to strengthen my technical and analytical skills.{"\n\n\n\n"}
+            I enjoy learning new technologies, solving real-world security challenges, and actively engaging in both academic and extracurricular activities. Through my involvement in organizations such as SEDS SLTC and participation in events like Stargaze25 and SpaceStack, I have developed teamwork, leadership, and problem-solving abilities.{"\n\n"}
+            I am committed to building a solid foundation in cyber security and aim to contribute to creating secure and resilient digital environments in the future.
           </p>
         </div>
       </Section>
