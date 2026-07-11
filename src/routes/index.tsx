@@ -18,6 +18,7 @@ import {
 } from "lucide-react";
 import { Chatbot } from "@/components/Chatbot";
 import profileAsset from "@/assets/shehan-profile.jpg.asset.json";
+import cardBgAsset from "@/assets/shehan-card-bg.png.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -154,13 +155,20 @@ function Portfolio() {
 
       {/* Hero */}
       <section id="top" className="relative overflow-hidden px-6 py-24 md:py-36">
-        <div className="mx-auto max-w-4xl text-center">
+        <img
+          src={cardBgAsset.url}
+          alt=""
+          className="pointer-events-none absolute inset-0 h-full w-full object-cover opacity-25"
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/50 to-background" aria-hidden="true" />
+        <div className="relative mx-auto max-w-4xl text-center">
           <div className="mb-6 flex justify-center animate-fade-up">
             <div className="relative">
               <img
                 src={profileAsset.url}
                 alt="Shehan Deshapriya"
-                className="h-32 w-32 rounded-full object-cover border-2 border-neon box-glow"
+                className="h-40 w-40 rounded-full object-cover border-2 border-neon box-glow"
                 style={{ borderColor: "var(--neon)" }}
               />
               <span className="absolute bottom-1 right-1 flex h-4 w-4 items-center justify-center rounded-full bg-background">
