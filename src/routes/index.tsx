@@ -295,7 +295,7 @@ function Portfolio() {
         <div className="mt-8 rounded-lg border border-border bg-card p-6 text-center">
           <p className="mb-4 text-sm text-muted-foreground">GitHub Activity</p>
           <img
-            src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"
+            src="https://github-readme-stats.vercel.app/api?username=shehanpeiris4803&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"
             alt="GitHub stats"
             className="mx-auto max-w-full"
             loading="lazy"
