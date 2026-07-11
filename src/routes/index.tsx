@@ -231,7 +231,7 @@ function Portfolio() {
             <h3 className="text-lg font-semibold text-neon" style={{ color: "var(--neon)" }}>
               BSc (Hons) in Cyber Security
             </h3>
-            <span className="text-xs text-muted-foreground">2023 — Present</span>
+            <span className="text-xs text-muted-foreground">2025 Nov — Present</span>
           </div>
           <p className="mt-1 text-sm">SLTC Research University, Sri Lanka</p>
           <p className="mt-3 text-sm text-muted-foreground">
