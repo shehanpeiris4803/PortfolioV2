@@ -155,6 +155,19 @@ function Portfolio() {
       {/* Hero */}
       <section id="top" className="relative overflow-hidden px-6 py-24 md:py-36">
         <div className="mx-auto max-w-4xl text-center">
+          <div className="mb-6 flex justify-center animate-fade-up">
+            <div className="relative">
+              <img
+                src={profileAsset.url}
+                alt="Shehan Deshapriya"
+                className="h-32 w-32 rounded-full object-cover border-2 border-neon box-glow"
+                style={{ borderColor: "var(--neon)" }}
+              />
+              <span className="absolute bottom-1 right-1 flex h-4 w-4 items-center justify-center rounded-full bg-background">
+                <span className="h-2.5 w-2.5 rounded-full bg-neon animate-pulse" style={{ background: "var(--neon)" }} />
+              </span>
+            </div>
+          </div>
           <p className="mb-4 font-mono text-sm text-neon animate-fade-up" style={{ color: "var(--neon)" }}>
             &gt; initializing_secure_session...
           </p>
