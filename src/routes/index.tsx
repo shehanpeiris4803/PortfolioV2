@@ -92,14 +92,14 @@ const SKILLS = [
 
 const PROJECTS = [
   {
-    title: "Home SOC Lab",
-    desc: "Built a security operations lab with Wazuh SIEM, Suricata IDS, and pfSense for real-time threat detection and log analysis.",
-    tags: ["Wazuh", "Suricata", "Linux"],
+    title: "To-Do List Manager",
+    desc: "A simple GUI-based To-Do List Manager developed using Python that allows users to add, update, and delete tasks efficiently.\nIt helps users organize their daily activities with a clean interface and basic task management features.",
+    tags: ["To-Do", "TKinter", "Python"],
   },
   {
-    title: "Vulnerability Scanner",
-    desc: "Python-based network scanner that enumerates open ports, fingerprints services, and cross-references CVE data from NVD.",
-    tags: ["Python", "Nmap", "CVE"],
+    title: "50-Programmes\u00a0",
+    desc: "Built a collection of 50 Java programs using IntelliJ IDEA to strengthen core programming concepts such as loops, arrays, object-oriented programming, and problem-solving.\nThis project demonstrates hands-on experience in Java development and improves logical thinking through practical implementation.",
+    tags: ["Java", "50_P", "IntelliJ"],
   },
   {
     title: "Phishing Simulator",
