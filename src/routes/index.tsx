@@ -153,7 +153,7 @@ function Portfolio() {
         <img
           src={cardBgAsset.url}
           alt=""
-          className="pointer-events-none absolute inset-0 h-full w-full object-cover object-top opacity-25"
+          className="pointer-events-none absolute inset-0 h-full w-full object-contain object-top opacity-25"
           aria-hidden="true"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/50 to-background" aria-hidden="true" />
